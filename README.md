@@ -34,3 +34,10 @@ To use Exclter:
 5. Specify Output: Choose the name and location for the processed Excel file.
 6. Process File: Click on 'Process File' to start the processing. The status and results will be displayed in the log section.
 7. Data Verification and Splitting: After processing, the program will verify the consistency of the data.
+
+## Future plans
+
+1. Add more options to the process, eg. by specifying the filtering by column values. (Now CEO & Chairmen of the board only supported)
+2. Option to add a custom named column with a custom value, now it is locked to only lead title and industry.
+3. Add an option to split the final table to desired amount or keep the file in single table.
+4. Beautify the GUI.
