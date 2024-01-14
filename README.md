@@ -1,5 +1,10 @@
 # Exclter
 
+<p align="center">
+  <img src="/GUI.png" alt="Exclter GUI" style="box-shadow: 4px 4px 8px 0px rgba(0,0,0,0.2);">
+</p>
+
+
 Exclter is a Python based program which was created to help with the filtering of multiple large tables in a CRM (Customer Relationship Management) project. Project included of handling large Excel files with alot of information about clients, those files needed to be filtered to only contain the more relevant information for the company using the CRM-service. This program was designed to be used for documents which are being imported to Pipedrive, but can also be used for other usecases regarding Excel files.
 
 ## Features
