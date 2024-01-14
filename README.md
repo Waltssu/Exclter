@@ -5,14 +5,14 @@
 </p>
 
 
-Exclter is a Python based program which was created to help with the filtering of multiple large tables in a CRM (Customer Relationship Management) project. Project included of handling large Excel files with alot of information about clients, those files needed to be filtered to only contain the more relevant information for the company using the CRM-service. This program was designed to be used for documents which are being imported to Pipedrive, but can also be used for other usecases regarding Excel files.
+Exclter is a Python based program which was created to help with the filtering of multiple large tables in a CRM (Customer Relationship Management) project. The project involved handling large Excel files with a lot of information about clients, those files needed to be filtered to only contain the more relevant information for the company using the CRM-service. This program was designed to be used for documents which are being imported to Pipedrive, but can also be used for other usecases regarding Excel files.
 
 ## Features
 
 + #### Excel File Processing
   + Exclter allows users to select an untreated Excel file and process it according to specific requirements. It supports both .xlsx and .xls formats.
 + #### Custom Column Selection
-  + Users can choose which columns to retain in the processed file. Exclter supports the selection of columns either through a text file including a list of column names or by using a set of default columns predefined in the source code.
+  + Users can choose which columns to retain in the processed file. Exclter supports the selection of columns either through a text file containing a list of column names or by using a set of default columns predefined in the source code.
 + #### Data Filtering Options
   + Specialized filtering options are available, such as the ability to filter out certain rows based on specific criteria like 'Chairman' or 'CEO' titles.
 + #### Additional Data Fields
